@@ -1,0 +1,18 @@
+%prenom%,
+
+Une annonce vient d’être mise en ligne sur le site. Elle peut correspondre à ton profil :
+
+Matière: %matiere%
+Niveau: %niveau%
+Objectif: %objectif%
+Ville: %ville%
+Durée des cours: %duree%
+Disponibilité: %disponibilite%
+Commentaire: %commentaire%
+
+Si cette annonce te convient, merci de te positionner rapidement en te rendant sur ton interface personnelle du site alloprof974.fr
+
+Merci
+
+Alexandra Pottier
+ALLO PROF 974

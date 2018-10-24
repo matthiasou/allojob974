@@ -1,0 +1,16 @@
+Bonjour %prenom% %nom%,
+
+%prenomProf% vient de postuler à votre annonce.
+
+Vous pouvez vous rendre sur notre site afin de prendre connaissance du profil complet de ce candidat.
+
+Si vous êtes satisfait(e), validez la candidature pour que la prestation se mette en place rapidement!
+
+Cordialement,
+Alexandra Pottier
+Directrice
+
+ALLO JOB 974
+
+
+http://www.alloprof974.fr

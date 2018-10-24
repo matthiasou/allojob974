@@ -1,0 +1,40 @@
+Searching 51 files for "profil_Job2.php"
+
+/Users/Matthias/Downloads/hopjob.com/users.php:
+  463                                                      }
+  464                                                  ?>" alt="">
+  465:                                                 <a href="http://alloJob974.fr/profil_Job2.php?id_utilisateur=<?php echo $resultat->id_utilisateur; ?>" class="user-link"><?php echo $resultat->prenom; echo " "; echo $resultat->nom; ?></a>
+  466                                                  <span class="user-subhead"><?php echo $resultat->matieres; ?></span>
+  467                                              </td>
+
+1 match in 1 file
+
+
+Searching 51 files for "dashboard_job.php"
+
+0 matches
+
+Searching 51 files for "dashboard_Job.php"
+
+0 matches
+
+Searching 51 files for "edit_profil_intervenant.php"
+
+0 matches
+
+Searching 51 files for "menage "
+
+/Users/Matthias/Downloads/hopjob.com/menage.php:
+  261              <div class="col-sm-12 wow fadeIn">
+  262                  <i class="fa fa-paint-brush"></i>
+  263:                 <h1>menage / 24€ </h1>
+  264              </div>
+  265          </div>
+  ...
+  274  
+  275                  <p>
+  276:                     Les classes du menage sont essentielles pour poser les bonnes bases d’une scolarité réussie et pour éviter que les difficultés s’installent.
+  277                      <br>Allo Job 974 vous propose par exemple d’aider vos enfants avec les objectifs suivants :
+  278  
+
+2 matches in 1 file

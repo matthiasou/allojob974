@@ -1,0 +1,26 @@
+Bonjour,
+
+Vous avez postulé à l'annonce suivante et vous avez été retenu(e):
+
+Matière: ${matiere}
+Niveau: ${niveau}
+Objectif: ${objectif}
+Ville: ${ville}
+Durée des cours: ${duree}
+Disponibilité: ${disponibilite}
+Commentaire: ${commentaire}
+
+Vous allez recevoir un mail avec toutes les informations nécessaires afin que vous puissiez prendre contact avec la famille pour mettre le premier cours en place au plus vite.
+
+Merci
+
+Alexandra Pottier
+Directrice pédagogique
+
+ALLO PROF 974
+
+
+http://www.alloprof974.fr
+
+ALLO PROF 974
+http://alloprof974.fr

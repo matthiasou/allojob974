@@ -1,0 +1,20 @@
+Bonjour,
+
+Vous avez postulé à l'annonce suivante mais elle n’est plus en ligne.
+
+Matière: ${matiere}
+Niveau: ${niveau}
+Objectif: ${objectif}
+Ville: ${ville}
+Durée des cours: ${duree}
+Disponibilité: ${disponibilite}
+Commentaire: ${commentaire}
+
+Soit les parents ont choisi un autre professeur soit ils n'ont pas donné suite!
+
+Merci de ta compréhension
+
+Alexandra Pottier
+Directrice pédagogique
+
+ALLO PROF 974
