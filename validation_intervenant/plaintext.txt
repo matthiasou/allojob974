@@ -1,7 +1,7 @@
 Bonjour,
 
 Je vous confirme que vous faites désormais partie de l'équipe d'ALLO JOB 974.
-Votre profil est désormais en ligne sur le site http://www.allojob974.fr/
+Votre profil est désormais en ligne sur le site https://www.allojob974.fr/
 
 Afin de pouvoir postuler aux annonces, vous devez vous connecter sur le site avec l'adresse mail suivante :
 
@@ -16,4 +16,4 @@ La directrice
 ALLO JOB 974
 
 
-http://www.alloprof974.fr
+https://www.allojob974.fr

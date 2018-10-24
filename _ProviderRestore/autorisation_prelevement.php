@@ -11,12 +11,12 @@ require_once 'PHPWord/bootstrap.php';
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
 
 <!-- CSS -->
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,400">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid+Sans">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lobster">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,400">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Sans">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster">
     <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/font-awesome/css/fontawesome-all.css">
     <link rel="stylesheet" href="../assets/css/animate.css">
@@ -50,7 +50,7 @@ require_once 'PHPWord/bootstrap.php';
     <title>Allo Job 974 - Service à la personne</title>
 </head>
 <body>
-<form method="POST" action="http://www.alloJob974.fr/profil.php">
+<form method="POST" action="https://www.allojob974.fr/profil.php">
 <!-- Top menu -->
         <nav class="navbar" role="navigation">
             <div style="padding-right: 1px; padding-left: 1px;" class="container">
@@ -395,7 +395,7 @@ if(isset($_POST['prenom']) || isset($_POST['adresse'])){
                    text: "Très rapidement, le intervenant vous appellera pour confirmer avec vous la date et l’heure du premier cours.",
                    type: "success",
             }, function(isConfirm) {
-                 document.location.href="http://www.alloJob974.fr/index.php"
+                 document.location.href="https://www.allojob974.fr/index.php"
             });
             });
             </script>';

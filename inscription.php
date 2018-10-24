@@ -10,12 +10,12 @@ require'PHPMailer/PHPMailerAutoload.php'; // Retrieve the email
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
 
 <!-- CSS -->
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,400">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid+Sans">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lobster">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,400">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Sans">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/font-awesome/css/fontawesome-all.css">
     <link rel="stylesheet" href="assets/css/animate.css">
@@ -48,13 +48,13 @@ require'PHPMailer/PHPMailerAutoload.php'; // Retrieve the email
     <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
    
     <script type="text/javascript" src="assets/js/jquery-1.11.1.min.js"></script>
-    <script src="http://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <script src="sweetalert/dist/sweetalert.min.js"></script> 
     <title>Allo Job 974 - Service à la personne</title>
 </head>
 <body>
-<form method="POST" action="http://www.alloJob974.fr/profil.php">
+<form method="POST" action="https://www.allojob974.fr/profil.php">
 <!-- Top menu -->
         <nav class="navbar" role="navigation">
             <div class="container">
@@ -1168,7 +1168,7 @@ if (isset($_POST['nom']) && isset($_SESSION['id_utilisateur'])) {
 
 
             echo '
-            <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+            <script type="text/javascript" src="https://code.jquery.com/jquery-latest.js"></script>
             <link rel="stylesheet" href="stylesheets/sweetalert2.css">
             <script src="javascripts/custom/sweetalert2.min.js"></script>
             <script>

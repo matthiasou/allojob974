@@ -9,9 +9,9 @@
     <title>Allo Job 974 - Service à la personne</title>
 
     <!-- CSS -->
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,400">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid+Sans">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lobster">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,400">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Sans">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/animate.css">
@@ -39,7 +39,7 @@
 </head>
 
 <body>
-<form method="POST" action="http://www.alloJob974.fr/profil.php">
+<form method="POST" action="https://www.allojob974.fr/profil.php">
 <!-- Top menu -->
         <nav class="navbar" role="navigation">
             <div class="container">

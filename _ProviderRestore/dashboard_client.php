@@ -10,12 +10,12 @@ require'PHPMailer/PHPMailerAutoload.php'; // Retrieve the email
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
 
 <!-- CSS -->
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,400">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Droid+Sans">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lobster">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,400">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Sans">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster">
     <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/font-awesome/css/fontawesome-all.css">
     <link rel="stylesheet" href="../assets/css/animate.css">
@@ -48,7 +48,7 @@ require'PHPMailer/PHPMailerAutoload.php'; // Retrieve the email
     <title>Allo Job 974 - Service à la personne</title>
 </head>
 <body>
-<form method="POST" action="http://www.alloJob974.fr/profil.php">
+<form method="POST" action="https://www.allojob974.fr/profil.php">
 <!-- Top menu -->
         <nav class="navbar" role="navigation">
             <div class="container">
@@ -477,7 +477,7 @@ if(isset($_POST['valider'])){
 
 
         echo '
-            <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+            <script type="text/javascript" src="https://code.jquery.com/jquery-latest.js"></script>
             <link rel="stylesheet" href="stylesheets/sweetalert2.css">
             <script src="javascripts/custom/sweetalert2.min.js"></script>
             <script>
@@ -500,7 +500,7 @@ if(isset($_POST['valider'])){
         $_SESSION['id_annonce2'] = $_POST['id_annonce2'] ;
         
         echo '
-            <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+            <script type="text/javascript" src="https://code.jquery.com/jquery-latest.js"></script>
             <link rel="stylesheet" href="stylesheets/sweetalert2.css">
             <script src="javascripts/custom/sweetalert2.min.js"></script>
             <script>
@@ -601,7 +601,7 @@ if(isset($_POST['valider'])){
         ?>
         
         <tr>
-            <form id="<?php echo $i; ?>" method="POST" action="http://www.alloJob974.fr/profil_Job.php">
+            <form id="<?php echo $i; ?>" method="POST" action="https://www.allojob974.fr/profil_Job.php">
             <input type="hidden" name="id_utilisateur" value="<?php echo $resultat->id_utilisateur1 ?>">
             <td class="text-center"><a href="javascript:{}" onclick="document.getElementById('<?php echo $i; ?>').submit();"><?php echo $prenom3 ?></a></td>
 
@@ -661,7 +661,7 @@ if(isset($_POST['valider'])){
             $dateAnnonce3 = $Annonce2['date'];
         ?>
         <tr>
-            <form id="<?php echo $j; ?>" method="POST" action="http://www.alloJob974.fr/profil_Job.php">
+            <form id="<?php echo $j; ?>" method="POST" action="https://www.allojob974.fr/profil_Job.php">
             <input type="hidden" name="id_utilisateur" value="<?php echo $resultat->id_utilisateur1 ?>">
             <td class="text-center"><a href="javascript:{}" onclick="document.getElementById('<?php echo $j; ?>').submit();"><?php echo $prenom3 ?></a></td>
 
